@@ -1,6 +1,6 @@
 # Online Portfolio Optimization
 
-This project aims at investigating the performance of the following online algorithms in portfolio optimization:
+This project implements and investigates the performance of the following online algorithms in portfolio optimization:
 - Online Gradient Descent (OGD)
 - Linearized Follow the Leader (LFTL)
 - Exponentiated Gradient Descent (EGD)
